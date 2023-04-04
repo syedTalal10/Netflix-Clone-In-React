@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Netflix-Clone-in React, Javascript
 
 Quick start:
 
